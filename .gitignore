@@ -45,3 +45,9 @@ build/
 # OS
 Thumbs.db
 .DS_Store
+
+
+# FastAPI generated results
+backend/results/
+# FastAPI generated results
+backend/results/
